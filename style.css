@@ -773,64 +773,6 @@ footer p{
 
 }
 
-
-/* ===========================================================
-   RESPONSIVE
-=========================================================== */
-
-@media(max-width:900px){
-
-    .reveal-container{
-
-        grid-template-columns:1fr;
-
-    }
-
-    .navbar{
-
-        padding:20px;
-
-        height:auto;
-
-        flex-direction:column;
-
-        gap:18px;
-
-    }
-
-    .navbar ul{
-
-        flex-wrap:wrap;
-
-        justify-content:center;
-
-        gap:18px;
-
-    }
-
-    h1{
-
-        font-size:3rem;
-
-    }
-
-    .hero{
-
-        padding:120px 20px;
-
-    }
-
-    .accordion-header{
-
-        flex-direction:column;
-
-        gap:18px;
-
-        text-align:center;
-
-    }
-
-}
 /* ===========================
    REGALO RESERVADO
 =========================== */
@@ -963,5 +905,255 @@ footer p{
     background:#E8F1FF;
 
     color:#3F5FA9;
+
+}
+
+/* ===========================================================
+   RESPONSIVE - TABLETS Y CELULARES
+=========================================================== */
+
+@media (max-width:900px){
+
+    /* ---------- GENERAL ---------- */
+
+    section{
+
+        padding:70px 18px;
+
+    }
+
+    /* ---------- NAVBAR ---------- */
+
+    .navbar{
+
+        padding:14px 18px;
+
+        min-height:78px;
+
+        height:auto;
+
+        flex-direction:column;
+
+        justify-content:center;
+
+        gap:10px;
+
+    }
+
+    .logo-nav{
+
+        font-size:1.8rem;
+
+    }
+
+    .navbar ul{
+
+        display:flex;
+
+        justify-content:center;
+
+        flex-wrap:wrap;
+
+        gap:10px 18px;
+
+        width:100%;
+
+    }
+
+    .navbar a{
+
+        font-size:17px;
+
+    }
+
+    /* ---------- HERO ---------- */
+
+    .hero{
+
+        min-height:100vh;
+
+        height:auto;
+
+        padding:150px 20px 80px;
+
+        background-position:60% center;
+
+    }
+
+    .hero-content{
+
+        max-width:100%;
+
+        padding:0;
+
+    }
+
+    h1{
+
+        font-size:3.2rem;
+
+        line-height:1.1;
+
+    }
+
+    .subtitle{
+
+        font-size:1.15rem;
+
+    }
+
+    .date{
+
+        width:100%;
+
+        max-width:340px;
+
+        margin:0 auto 28px;
+
+    }
+
+    .button{
+
+        width:100%;
+
+        max-width:320px;
+
+        text-align:center;
+
+    }
+
+    /* ---------- NUESTRA AVENTURA ---------- */
+
+    .reveal-container{
+
+        grid-template-columns:1fr;
+
+        gap:35px;
+
+    }
+
+    /* ---------- ACORDEONES ---------- */
+
+    .accordion-header{
+
+        flex-direction:column;
+
+        align-items:center;
+
+        text-align:center;
+
+        padding:22px;
+
+        gap:12px;
+
+    }
+
+    .accordion-title{
+
+        flex-direction:column;
+
+        gap:12px;
+
+    }
+
+    .accordion-title h3{
+
+        font-size:1.6rem;
+
+    }
+
+    .accordion-title p{
+
+        font-size:1rem;
+
+    }
+
+    .accordion-arrow{
+
+        margin-top:6px;
+
+    }
+
+    .accordion-content{
+
+        padding:22px 16px;
+
+    }
+
+    /* ---------- TARJETAS ---------- */
+
+    .gift-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .gift-card{
+
+        min-height:auto;
+
+    }
+
+    .gift-card img{
+
+        width:96px;
+
+        height:96px;
+
+        margin:18px auto 10px;
+
+    }
+
+    .gift-body{
+
+        padding:16px;
+
+    }
+
+    .gift-body h4{
+
+        font-size:1.9rem;
+
+        min-height:auto;
+
+        margin-bottom:12px;
+
+    }
+
+    .gift-meta{
+
+        font-size:16px;
+
+    }
+
+    .gift-links{
+
+        margin-top:18px;
+
+    }
+
+    .gift-links a{
+
+        text-align:center;
+
+        padding:14px;
+
+        font-size:16px;
+
+    }
+
+    .gift-reserved{
+
+        margin-top:18px;
+
+    }
+
+    /* ---------- FOOTER ---------- */
+
+    footer{
+
+        padding:35px 20px;
+
+    }
 
 }
