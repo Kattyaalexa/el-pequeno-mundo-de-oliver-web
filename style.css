@@ -278,6 +278,21 @@ font-weight:700;
 color:var(--forest);
 
 }
+.menu-toggle{
+
+    display:none;
+
+    background:none;
+
+    border:none;
+
+    font-size:34px;
+
+    color:var(--forest);
+
+    cursor:pointer;
+
+}
 
 .navbar ul{
 
@@ -924,47 +939,71 @@ footer p{
 
     /* ---------- NAVBAR ---------- */
 
-    .navbar{
+.navbar{
 
-        padding:14px 18px;
+    flex-direction:row;
 
-        min-height:78px;
+    justify-content:space-between;
 
-        height:auto;
+    align-items:center;
 
-        flex-direction:column;
+    padding:16px 20px;
 
-        justify-content:center;
+}
 
-        gap:10px;
+.menu-toggle{
 
-    }
+    display:block;
 
-    .logo-nav{
+}
 
-        font-size:1.8rem;
+.navbar ul{
 
-    }
+    display:none;
 
-    .navbar ul{
+    position:absolute;
 
-        display:flex;
+    top:82px;
 
-        justify-content:center;
+    left:0;
 
-        flex-wrap:wrap;
+    right:0;
 
-        gap:10px 18px;
+    background:white;
 
-        width:100%;
+    flex-direction:column;
 
-    }
+    gap:0;
 
-    .navbar a{
+    padding:10px 0;
 
-        font-size:17px;
+    box-shadow:0 8px 25px rgba(0,0,0,.10);
 
-    }
+}
+
+.navbar ul.active{
+
+    display:flex;
+
+}
+
+.navbar li{
+
+    list-style:none;
+
+}
+
+.navbar a{
+
+    display:block;
+
+    padding:16px;
+
+    text-align:center;
+
+    font-size:18px;
+
+}
 
     /* ---------- HERO ---------- */
 
