@@ -937,23 +937,53 @@ footer p{
 
     }
 
-    /* ---------- NAVBAR ---------- */
+   /* ---------- NAVBAR ---------- */
 
 .navbar{
 
-    flex-direction:row;
-
-    justify-content:space-between;
+    display:flex;
 
     align-items:center;
 
-    padding:16px 20px;
+    justify-content:space-between;
+
+    padding:14px 18px;
+
+    height:72px;
+
+}
+
+.logo-nav{
+
+    flex:1;
+
+    font-size:2rem;
 
 }
 
 .menu-toggle{
 
-    display:block;
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    width:48px;
+
+    height:48px;
+
+    flex-shrink:0;
+
+    background:none;
+
+    border:none;
+
+    color:var(--forest);
+
+    font-size:34px;
+
+    cursor:pointer;
 
 }
 
@@ -961,23 +991,25 @@ footer p{
 
     display:none;
 
-    position:absolute;
+    position:fixed;
 
-    top:82px;
+    top:72px;
 
     left:0;
 
-    right:0;
+    width:100%;
 
     background:white;
 
     flex-direction:column;
 
-    gap:0;
+    padding:0;
 
-    padding:10px 0;
+    margin:0;
 
-    box-shadow:0 8px 25px rgba(0,0,0,.10);
+    box-shadow:0 8px 24px rgba(0,0,0,.12);
+
+    z-index:998;
 
 }
 
@@ -989,7 +1021,7 @@ footer p{
 
 .navbar li{
 
-    list-style:none;
+    width:100%;
 
 }
 
@@ -997,11 +1029,11 @@ footer p{
 
     display:block;
 
-    padding:16px;
+    width:100%;
+
+    padding:18px;
 
     text-align:center;
-
-    font-size:18px;
 
 }
 
@@ -1013,7 +1045,7 @@ footer p{
 
         height:auto;
 
-        padding:150px 20px 80px;
+        padding:110px 20px 60px;
 
         background-position:60% center;
 
