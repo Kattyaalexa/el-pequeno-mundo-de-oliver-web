@@ -1303,7 +1303,7 @@ const giftCategories = {
                 },
                 {
                     "store": "Amazon",
-                    "url": "amazon.com/-/es/portátil-enfriador-resistente-almacenamiento-adicional/dp/B0DTHBCXZM?colid=KKRSFS36DK8C&coliid=I2K47FE7M7OEV6&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
+                    "url": "https://www.amazon.com/dp/B0DTHBCXZM"
                 }
             ]
         },
