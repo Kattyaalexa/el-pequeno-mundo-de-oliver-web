@@ -886,6 +886,28 @@ const giftCategories = {
             "reserved": false,
             "reservedBy": "",
             "links": []
+        },
+        {
+            "name": "Cepillo para encias",
+            "quantity": 1,
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "links": [
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/3-cepillos-dientes-encias-bebe-silicona-suave-seguro-ninos-azul-claro/p/MCO73892785#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=8&type=product&tracking_id=2fb296ac-46bc-4bf8-8ef5-4d5673a49e8b&wid=MCO4073961884&sid=search"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/cepillo-rasca-encias-paso-1-pigeon-color-amarillo-amarillo/p/MCO32368137"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/hisopos-limpiadores-bucales-desechables-bebe-x30-30pcs/p/MCO2064450326?pdp_filters=item_id%3AMCO1984962935&from=gshop&matt_tool=93306144&matt_word=&matt_source=google&matt_campaign_id=24095075665&matt_ad_group_id=204005822852&matt_match_type=&matt_network=g&matt_device=c&matt_creative=819010940623&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735127770&matt_product_id=MCO2064450326-product&matt_product_partition_id=2493336664279&matt_target_id=pla-2493336664279&cq_src=google_ads&cq_cmp=24095075665&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=24095075665&gbraid=0AAAAAD1DcoxPaZsZNuo-VnDKCd0V9rZQs&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k5eT_mZlCrtN47QLVLLBX40n3B4hqy0diTQ6ZolvZmWcWG0y5N0jPxoCwQMQAvD_BwE"
+                }
+            ]
         }
     ],
     "Lactancia": [
