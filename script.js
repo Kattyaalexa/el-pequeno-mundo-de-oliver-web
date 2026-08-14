@@ -186,7 +186,7 @@ const giftCategories = {
                 },
                 {
                     "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/tazas-para-ninos-12m-antiderrame-360-grados-295-ml-pack-2/up/MCOU4498302631?matt_tool=19390127&utm_source=google_shopping&utm_medium=organic&pdp_filters=item_id%3AMCO4248411794&from=gshop"
+                    "url": "https://www.mercadolibre.com.co/vaso-entrenador-360-munchkin-antiderrames-color-azulverde/p/MCO26084911"
                 }
             ]
         },
