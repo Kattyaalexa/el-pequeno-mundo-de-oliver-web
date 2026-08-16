@@ -1530,6 +1530,15 @@ const giftCategories = {
                     "url": "https://www.amazon.com/-/es/Momcozy-Enfriador-exteriores-salvavidas-enfriamiento/dp/B0D3195F82?colid=KKRSFS36DK8C&coliid=I2IAXQ62HFZLCV&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1"
                 }
             ]
+        },
+        {
+            "name": "Prueba",
+            "priority": "Útil",
+            "image": "images/icons/transport.webp",
+            "reserved": true,
+            "reservedBy": "Anónimo",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Prueba",
+            "links": []
         }
     ]
 };
