@@ -922,6 +922,56 @@ footer p{
     color:#3F5FA9;
 
 }
+.reserve-button{
+
+    margin-top:14px;
+
+}
+
+.reserve-button a{
+
+    display:block;
+
+    width:100%;
+
+    padding:14px;
+
+    border-radius:14px;
+
+    background:var(--forest);
+
+    color:white;
+
+    text-decoration:none;
+
+    text-align:center;
+
+    font-weight:700;
+
+    transition:.25s;
+
+}
+.reserve-note{
+
+    margin-top:10px;
+
+    font-size:13px;
+
+    line-height:1.5;
+
+    color:#7A807C;
+
+    text-align:center;
+
+}
+
+.reserve-button a:hover{
+
+    transform:translateY(-2px);
+
+    filter:brightness(1.08);
+
+}
 
 /* ===========================================================
    RESPONSIVE - TABLETS Y CELULARES
