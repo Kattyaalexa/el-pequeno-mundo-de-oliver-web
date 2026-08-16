@@ -223,8 +223,8 @@ const giftCategories = {
             "stage": "RN",
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
-            "reserved": false,
-            "reservedBy": "",
+            "reserved": true,
+            "reservedBy": "Nicolas",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Biber%C3%B3n",
             "links": [
                 {
@@ -239,8 +239,8 @@ const giftCategories = {
             "stage": "RN",
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
-            "reserved": false,
-            "reservedBy": "",
+            "reserved": true,
+            "reservedBy": "Nicolas",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Chupos",
             "links": [
                 {
