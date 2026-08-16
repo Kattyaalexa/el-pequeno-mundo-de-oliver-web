@@ -630,8 +630,8 @@ const giftCategories = {
             "stage": "General",
             "priority": "Nos gustaría",
             "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedBy": "",
+            "reserved": true,
+            "reservedBy": "Valeria",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=%C3%81lbum%20del%20primer%20a%C3%B1o",
             "links": []
         },
