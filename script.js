@@ -950,6 +950,7 @@ const giftCategories = {
         {
             "name": "Cepillo para encias",
             "quantity": 1,
+            "stage": "0-3 meses",
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
@@ -1298,6 +1299,44 @@ const giftCategories = {
             "reservedBy": "",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Zapatos%20primeros%20pasos",
             "links": []
+        },
+        {
+            "name": "Sleeping/saco de dormir liviano",
+            "quantity": 2,
+            "stage": "3-6 meses",
+            "priority": "Necesario",
+            "image": "images/icons/clothes.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Sleeping%2Fsaco%20de%20dormir%20liviano",
+            "links": [
+                {
+                    "store": "Ver opción",
+                    "url": "https://dosmicos.co/products/sleeping-para-bebe-venado-tog-2-5?variant=46799535964395&country=CO&currency=COP"
+                }
+            ]
+        },
+        {
+            "name": "Esqueletos 0–3 meses",
+            "quantity": "5-7",
+            "stage": "RN–3 meses",
+            "priority": "Necesario",
+            "image": "images/icons/clothes.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%200%E2%80%933%20meses",
+            "links": []
+        },
+        {
+            "name": "Esqueletos 3–6 meses",
+            "quantity": "5-7",
+            "stage": "3–6 meses",
+            "priority": "Necesario",
+            "image": "images/icons/clothes.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%203%E2%80%936%20meses",
+            "links": []
         }
     ],
     "Seguridad": [
@@ -1344,6 +1383,42 @@ const giftCategories = {
             "reservedBy": "",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Protectores%20de%20enchufe",
             "links": []
+        },
+        {
+            "name": "Barrera retráctil de malla",
+            "quantity": 1,
+            "stage": "6–24+ meses",
+            "priority": "Necesario",
+            "image": "images/icons/safety.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Barrera%20retr%C3%A1ctil%20de%20malla",
+            "links": [
+                {
+                    "store": "Carestino",
+                    "url": "https://www.carestino.com.co/producto/reja-de-seguridad-retractil-140x84cm-blanco/"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/puerta-de-bebe-retractil-puerta-de-seguridad-de-malla-para-bebes-y-mascotas-puerta-de-seguridad-extra-ancha-de-855-cm-de-alto-se-extiende-a-1397-cm-de-ancho-puerta-para-perros-de-mascotas-para/p/MCO37145601?utm_source=chatgpt.com"
+                }
+            ]
+        },
+        {
+            "name": "Barrera modular para bebé",
+            "quantity": 1,
+            "stage": "6–24+ meses",
+            "priority": "Necesario",
+            "image": "images/icons/safety.webp",
+            "reserved": false,
+            "reservedBy": "",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Barrera%20modular%20para%20beb%C3%A9",
+            "links": [
+                {
+                    "store": "Falabella",
+                    "url": "https://www.falabella.com.co/falabella-co/product/120249106/corral-area-de-juego-playpen/120249107"
+                }
+            ]
         }
     ],
     "Transporte": [
@@ -1504,6 +1579,7 @@ const giftCategories = {
         {
             "name": "Portabebés Agua",
             "quantity": 1,
+            "stage": "Top",
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
@@ -1519,6 +1595,7 @@ const giftCategories = {
         {
             "name": "Enfriador de Leche",
             "quantity": 1,
+            "stage": "Top",
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
@@ -1530,15 +1607,6 @@ const giftCategories = {
                     "url": "https://www.amazon.com/-/es/Momcozy-Enfriador-exteriores-salvavidas-enfriamiento/dp/B0D3195F82?colid=KKRSFS36DK8C&coliid=I2IAXQ62HFZLCV&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1"
                 }
             ]
-        },
-        {
-            "name": "Prueba",
-            "priority": "Útil",
-            "image": "images/icons/transport.webp",
-            "reserved": true,
-            "reservedBy": "Anónimo",
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Prueba",
-            "links": []
         }
     ]
 };
