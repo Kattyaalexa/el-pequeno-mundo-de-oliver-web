@@ -1861,21 +1861,25 @@ function createCard(product){
 
             <strong>${product.quantity}</strong>
 
-            reservado(s)
+            unidades reservadas
 
         </div>
 
-        <div class="gift-count">
+        ${product.available > 0 ? `
 
-            ✨
+            <div class="gift-count">
 
-            Quedan
+                ✨
 
-            <strong>${product.available}</strong>
+                Quedan
 
-            disponible(s)
+                <strong>${product.available}</strong>
 
-        </div>
+                disponible(s)
+
+            </div>
+
+        ` : ""}
 
         ${product.reservedCount > 0 ? `
 
@@ -1905,31 +1909,47 @@ function createCard(product){
 
 `;
 
-    const purchaseSection = product.reserved
+    const purchaseSection = product.available === 0
 
     ? `
 
-        <div class="gift-reserved">
+        ${product.links.length ? `
 
-            <div class="gift-reserved-check">
+            <div class="gift-links">
 
-                ✅ Reservado
+                ${product.links.map(link => `
+
+                    <a href="${link.url}" target="_blank">
+
+                        <span>🛒</span> ${link.store}
+
+                    </a>
+
+                `).join("")}
 
             </div>
 
-            <div class="gift-reserved-name">
+        ` : `
 
-                💚 Ya reservado por
+            <div class="free-choice">
 
-                <ul class="reserved-list">
+                🎁 Libre elección
 
-                    ${product.reservedBy.map(person => `
+            </div>
 
-                        <li>${person}</li>
+        `}
 
-                    `).join("")}
+        <div class="gift-complete">
 
-                </ul>
+            <div class="gift-complete-title">
+
+                🎉 ¡Este regalo ya fue elegido!
+
+            </div>
+
+            <div class="gift-complete-text">
+
+                Gracias por tanto cariño. 💚
 
             </div>
 
@@ -1965,8 +1985,6 @@ function createCard(product){
 
         `}
 
-        ${product.available > 0 ? `
-
         <div class="reserve-button">
 
             <a
@@ -1988,7 +2006,7 @@ function createCard(product){
 
         </div>
 
-    ` : `
+    `;
 
         <div class="gift-complete">
 
