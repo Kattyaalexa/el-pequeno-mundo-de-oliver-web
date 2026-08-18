@@ -1851,37 +1851,51 @@ function createCard(product){
 
     <div class="gift-reservation-status">
 
-        <p>
+        <div class="gift-count">
 
-            📦 <strong>${product.reservedCount}</strong>
+            📦
+
+            <strong>${product.reservedCount}</strong>
+
             de
+
             <strong>${product.quantity}</strong>
+
             reservado(s)
 
-        </p>
+        </div>
 
-        <p>
+        <div class="gift-count">
 
-            ✨ Quedan
+            ✨
+
+            Quedan
+
             <strong>${product.available}</strong>
 
-        </p>
+            disponible(s)
+
+        </div>
 
         ${product.reservedCount > 0 ? `
 
             <div class="gift-reserved-name">
 
-                <strong>💚 Ya reservado por</strong>
+                💚 Ya reservado por
 
-                <ul class="reserved-list">
+                <div class="reserved-list">
 
                     ${product.reservedBy.map(person => `
 
-                        <li>${person}</li>
+                        <span class="reserved-chip">
+
+                            ${person}
+
+                        </span>
 
                     `).join("")}
 
-                </ul>
+                </div>
 
             </div>
 
