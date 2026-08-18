@@ -1052,6 +1052,153 @@ footer p{
 
 }
 
+.gallery-grid{
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(auto-fit,minmax(320px,380px));
+
+    justify-content:center;
+
+    gap:28px;
+
+    margin-top:50px;
+
+}
+
+.gallery-card{
+
+    background:white;
+
+    border-radius:22px;
+
+    overflow:hidden;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+    transition:.35s;
+
+}
+
+.gallery-card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 25px 45px rgba(0,0,0,.12);
+
+}
+
+
+.gallery-card img{
+
+    display:block;
+
+    width:100%;
+
+    height:340px;
+
+    object-fit:cover;
+
+    transition:.4s;
+
+}
+
+.gallery-card:hover img{
+
+    transform:scale(1.05);
+
+}
+
+.gallery-info{
+
+    padding:18px;
+
+}
+
+.gallery-date{
+
+    font-size:14px;
+
+    color:#7A807C;
+
+    text-align:center;
+
+}
+
+.gallery-title{
+
+    margin-top:8px;
+
+    color:var(--forest);
+
+    font-size:18px;
+
+    font-weight:700;
+
+}
+
+/* ==========================================
+   LIGHTBOX
+========================================== */
+
+.lightbox{
+
+    position:fixed;
+
+    inset:0;
+
+    background:rgba(0,0,0,.88);
+
+    display:none;
+
+    justify-content:center;
+
+    align-items:center;
+
+    z-index:9999;
+
+    padding:40px;
+
+}
+
+.lightbox.active{
+
+    display:flex;
+
+}
+
+.lightbox-image{
+
+    max-width:90vw;
+
+    max-height:90vh;
+
+    border-radius:16px;
+
+    box-shadow:0 25px 60px rgba(0,0,0,.35);
+
+}
+
+.lightbox-close{
+
+    position:absolute;
+
+    top:30px;
+
+    right:40px;
+
+    color:white;
+
+    font-size:38px;
+
+    cursor:pointer;
+
+    user-select:none;
+
+}
+
+
 /* ===========================================================
    RESPONSIVE - TABLETS Y CELULARES
 =========================================================== */

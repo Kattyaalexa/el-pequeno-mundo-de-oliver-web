@@ -1,12 +1,12 @@
 
-// ========================================
-// AUTO-GENERADO
-// No editar manualmente.
-// Ejecuta:
-// node tools/generate-script.js
-// ========================================
+    // ========================================
+    // AUTO-GENERADO
+    // No editar manualmente.
+    // Ejecuta:
+    // node tools/generate-script.js
+    // ========================================
 
-const giftCategories = {
+    const giftCategories = {
     "Alimentación": [
         {
             "name": "Baberos de silicona",
@@ -1843,385 +1843,198 @@ const giftCategories = {
     ]
 };
 
-const container = document.getElementById("giftCategories");
-const searchInput = document.getElementById("searchGift");
+    const container = document.getElementById("giftCategories");
+    const searchInput = document.getElementById("searchGift");
 
-function createCard(product){
-    const reservationStatus = `
+    function createCard(product){
+        const reservationStatus = `
 
-    <div class="gift-reservation-status">
-
-        <div class="gift-count">
-
-            📦
-
-            <strong>${product.reservedCount}</strong>
-
-            de
-
-            <strong>${product.quantity}</strong>
-
-            unidades reservadas
-
-        </div>
-
-        ${product.available > 0 ? `
+        <div class="gift-reservation-status">
 
             <div class="gift-count">
 
-                ✨
+                📦
 
-                Quedan
+                <strong>${product.reservedCount}</strong>
 
-                <strong>${product.available}</strong>
+                de
 
-                disponible(s)
+                <strong>${product.quantity}</strong>
+
+                unidades reservadas
 
             </div>
 
-        ` : ""}
+            ${product.available > 0 ? `
 
-        ${product.reservedCount > 0 ? `
+                <div class="gift-count">
 
-            <div class="gift-reserved-name">
+                    ✨
 
-                💚 Ya reservado por
+                    Quedan
 
-                <div class="reserved-list">
+                    <strong>${product.available}</strong>
 
-                    ${product.reservedBy.map(person => `
-
-                        <span class="reserved-chip">
-
-                            ${person}
-
-                        </span>
-
-                    `).join("")}
+                    disponible(s)
 
                 </div>
 
-            </div>
+            ` : ""}
 
-        ` : ""}
+            ${product.reservedCount > 0 ? `
 
-    </div>
+                <div class="gift-reserved-name">
 
-`;
+                    💚 Ya reservado por
 
-    const purchaseSection = product.available === 0
+                    <div class="reserved-list">
 
-    ? `
+                        ${product.reservedBy.map(person => `
 
-        ${product.links.length ? `
+                            <span class="reserved-chip">
 
-            <div class="gift-links">
+                                ${person}
 
-                ${product.links.map(link => `
+                            </span>
 
-                    <a href="${link.url}" target="_blank">
-
-                        <span>🛒</span> ${link.store}
-
-                    </a>
-
-                `).join("")}
-
-            </div>
-
-        ` : `
-
-            <div class="free-choice">
-
-                🎁 Libre elección
-
-            </div>
-
-        `}
-
-        <div class="gift-complete">
-
-            <div class="gift-complete-title">
-
-                🎉 ¡Este regalo ya fue elegido!
-
-            </div>
-
-            <div class="gift-complete-text">
-
-                Gracias por tanto cariño. 💚
-
-            </div>
-
-        </div>
-
-    `
-
-    : `
-
-        ${product.links.length ? `
-
-            <div class="gift-links">
-
-                ${product.links.map(link => `
-
-                    <a href="${link.url}" target="_blank">
-
-                        <span>🛒</span> ${link.store}
-
-                    </a>
-
-                `).join("")}
-
-            </div>
-
-        ` : `
-
-            <div class="free-choice">
-
-                🎁 Libre elección
-
-            </div>
-
-        `}
-
-        <div class="reserve-button">
-
-            <a
-                href="${product.reserveUrl}"
-                target="_blank"
-            >
-
-                🎁 Reservar este regalo
-
-            </a>
-
-            <p class="reserve-note">
-
-                💚 Gracias por ayudarnos a preparar la llegada de Oliver.
-
-                Después de enviar el formulario, este regalo aparecerá como reservado.
-
-            </p>
-
-        </div>
-
-    `;
-
-
-    return `
-
-        <div class="gift-card">
-
-            <img
-                src="${product.image}"
-                alt="${product.name}"
-            >
-
-            <div class="gift-body">
-
-                <h4>${product.name}</h4>
-
-                <div class="gift-meta">
-
-                    <span>
-
-                        👶 ${product.stage}
-
-                    </span>
-
-                </div>
-
-                ${reservationStatus}
-                
-                ${purchaseSection}
-
-            </div>
-
-        </div>
-
-    `;
-
-}
-
-// ========================================
-// INFORMACIÓN DE LAS CATEGORÍAS
-// ========================================
-
-const categoryInfo = {
-
-    "Alimentación":{
-
-        title:"🍼 Casita del Desayuno",
-
-        subtitle:"Todo para alimentar a Oliver"
-
-    },
-
-    "Baño":{
-
-        title:"🛁 Río Cristalino",
-
-        subtitle:"Hora del baño"
-
-    },
-
-    "Dormitorio":{
-
-        title:"🌳 Bosque de los Sueños",
-
-        subtitle:"El lugar donde soñará Oliver"
-
-    },
-
-    "Fotografía":{
-
-        title:"📸 Recuerdos para Siempre",
-
-        subtitle:"Nuestros momentos favoritos"
-
-    },
-
-    "General":{
-
-        title:"🍃 Pequeños Detalles",
-
-        subtitle:"Todo lo demás"
-
-    },
-
-    "Juguetes":{
-
-        title:"🧸 Claro de los Juegos",
-
-        subtitle:"Aprender jugando"
-
-    },
-
-    "Lactancia":{
-
-        title:"🤱 Rincón de Lactancia",
-
-        subtitle:"Para acompañar los primeros momentos de mamá y Oliver"
-
-    },
-
-    "Limpieza":{
-
-        title:"🧼 Todo Limpio",
-
-        subtitle:"Cuidando cada detalle"
-
-    },
-
-    "Organización":{
-
-        title:"📦 Todo en su Lugar",
-
-        subtitle:"Organizando el pequeño mundo"
-
-    },
-
-    "Recuperación":{
-
-        title:"💚 Cuidando a Mamá",
-
-        subtitle:"Porque mamá también importa"
-
-    },
-
-    "Ropa":{
-
-        title:"👕 Armario del Bosque",
-
-        subtitle:"Pequeñas aventuras"
-
-    },
-
-    "Seguridad":{
-
-        title:"🛡️ Refugio Seguro",
-
-        subtitle:"Protegiendo a Oliver"
-
-    },
-
-    "Transporte":{
-
-        title:"🚼 Sendero de Aventuras",
-
-        subtitle:"Cada paseo será especial"
-
-    },
-
-    "Viajes":{
-
-        title:"✈️ Grandes Aventuras",
-
-        subtitle:"Listos para descubrir el mundo"
-
-    }
-
-};
-
-function renderCategories(search = ""){
-
-    container.innerHTML = "";
-
-    Object.entries(giftCategories).forEach(([category, items]) => {
-
-        const info = categoryInfo[category] || {
-        title: category,
-        subtitle: ""
-        };
-
-        const filtered = items.filter(item =>
-            item.name.toLowerCase().includes(search.toLowerCase())
-        );
-
-        if(filtered.length === 0){
-            return;
-        }
-
-        const accordion = document.createElement("div");
-
-        accordion.className = "accordion";
-
-        accordion.innerHTML = `
-
-            <div class="accordion-header">
-
-                <div class="accordion-title">
-
-                    <div>
-
-                        <h3>${info.title}</h3>
-
-                        <p>
-
-                            ${info.subtitle}
-
-                            • ${filtered.length} regalo(s)
-
-                        </p>
+                        `).join("")}
 
                     </div>
 
                 </div>
 
-                <div class="accordion-arrow">
+            ` : ""}
 
-                    ▼
+        </div>
+
+    `;
+
+        const purchaseSection = product.available === 0
+
+        ? `
+
+            ${product.links.length ? `
+
+                <div class="gift-links">
+
+                    ${product.links.map(link => `
+
+                        <a href="${link.url}" target="_blank">
+
+                            <span>🛒</span> ${link.store}
+
+                        </a>
+
+                    `).join("")}
+
+                </div>
+
+            ` : `
+
+                <div class="free-choice">
+
+                    🎁 Libre elección
+
+                </div>
+
+            `}
+
+            <div class="gift-complete">
+
+                <div class="gift-complete-title">
+
+                    🎉 ¡Este regalo ya fue elegido!
+
+                </div>
+
+                <div class="gift-complete-text">
+
+                    Gracias por tanto cariño. 💚
 
                 </div>
 
             </div>
 
-            <div class="accordion-content">
+        `
 
-                <div class="gift-grid">
+        : `
 
-                    ${filtered.map(createCard).join("")}
+            ${product.links.length ? `
+
+                <div class="gift-links">
+
+                    ${product.links.map(link => `
+
+                        <a href="${link.url}" target="_blank">
+
+                            <span>🛒</span> ${link.store}
+
+                        </a>
+
+                    `).join("")}
+
+                </div>
+
+            ` : `
+
+                <div class="free-choice">
+
+                    🎁 Libre elección
+
+                </div>
+
+            `}
+
+            <div class="reserve-button">
+
+                <a
+                    href="${product.reserveUrl}"
+                    target="_blank"
+                >
+
+                    🎁 Reservar este regalo
+
+                </a>
+
+                <p class="reserve-note">
+
+                    💚 Gracias por ayudarnos a preparar la llegada de Oliver.
+
+                    Después de enviar el formulario, este regalo aparecerá como reservado.
+
+                </p>
+
+            </div>
+
+        `;
+
+
+        return `
+
+            <div class="gift-card">
+
+                <img
+                    src="${product.image}"
+                    alt="${product.name}"
+                >
+
+                <div class="gift-body">
+
+                    <h4>${product.name}</h4>
+
+                    <div class="gift-meta">
+
+                        <span>
+
+                            👶 ${product.stage}
+
+                        </span>
+
+                    </div>
+
+                    ${reservationStatus}
+                    
+                    ${purchaseSection}
 
                 </div>
 
@@ -2229,25 +2042,213 @@ function renderCategories(search = ""){
 
         `;
 
-        accordion
-            .querySelector(".accordion-header")
-            .addEventListener("click", () => {
+    }
 
-                accordion.classList.toggle("active");
+    // ========================================
+    // INFORMACIÓN DE LAS CATEGORÍAS
+    // ========================================
 
-            });
+    const categoryInfo = {
 
-        container.appendChild(accordion);
+        "Alimentación":{
+
+            title:"🍼 Casita del Desayuno",
+
+            subtitle:"Todo para alimentar a Oliver"
+
+        },
+
+        "Baño":{
+
+            title:"🛁 Río Cristalino",
+
+            subtitle:"Hora del baño"
+
+        },
+
+        "Dormitorio":{
+
+            title:"🌳 Bosque de los Sueños",
+
+            subtitle:"El lugar donde soñará Oliver"
+
+        },
+
+        "Fotografía":{
+
+            title:"📸 Recuerdos para Siempre",
+
+            subtitle:"Nuestros momentos favoritos"
+
+        },
+
+        "General":{
+
+            title:"🍃 Pequeños Detalles",
+
+            subtitle:"Todo lo demás"
+
+        },
+
+        "Juguetes":{
+
+            title:"🧸 Claro de los Juegos",
+
+            subtitle:"Aprender jugando"
+
+        },
+
+        "Lactancia":{
+
+            title:"🤱 Rincón de Lactancia",
+
+            subtitle:"Para acompañar los primeros momentos de mamá y Oliver"
+
+        },
+
+        "Limpieza":{
+
+            title:"🧼 Todo Limpio",
+
+            subtitle:"Cuidando cada detalle"
+
+        },
+
+        "Organización":{
+
+            title:"📦 Todo en su Lugar",
+
+            subtitle:"Organizando el pequeño mundo"
+
+        },
+
+        "Recuperación":{
+
+            title:"💚 Cuidando a Mamá",
+
+            subtitle:"Porque mamá también importa"
+
+        },
+
+        "Ropa":{
+
+            title:"👕 Armario del Bosque",
+
+            subtitle:"Pequeñas aventuras"
+
+        },
+
+        "Seguridad":{
+
+            title:"🛡️ Refugio Seguro",
+
+            subtitle:"Protegiendo a Oliver"
+
+        },
+
+        "Transporte":{
+
+            title:"🚼 Sendero de Aventuras",
+
+            subtitle:"Cada paseo será especial"
+
+        },
+
+        "Viajes":{
+
+            title:"✈️ Grandes Aventuras",
+
+            subtitle:"Listos para descubrir el mundo"
+
+        }
+
+    };
+
+    function renderCategories(search = ""){
+
+        container.innerHTML = "";
+
+        Object.entries(giftCategories).forEach(([category, items]) => {
+
+            const info = categoryInfo[category] || {
+            title: category,
+            subtitle: ""
+            };
+
+            const filtered = items.filter(item =>
+                item.name.toLowerCase().includes(search.toLowerCase())
+            );
+
+            if(filtered.length === 0){
+                return;
+            }
+
+            const accordion = document.createElement("div");
+
+            accordion.className = "accordion";
+
+            accordion.innerHTML = `
+
+                <div class="accordion-header">
+
+                    <div class="accordion-title">
+
+                        <div>
+
+                            <h3>${info.title}</h3>
+
+                            <p>
+
+                                ${info.subtitle}
+
+                                • ${filtered.length} regalo(s)
+
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-arrow">
+
+                        ▼
+
+                    </div>
+
+                </div>
+
+                <div class="accordion-content">
+
+                    <div class="gift-grid">
+
+                        ${filtered.map(createCard).join("")}
+
+                    </div>
+
+                </div>
+
+            `;
+
+            accordion
+                .querySelector(".accordion-header")
+                .addEventListener("click", () => {
+
+                    accordion.classList.toggle("active");
+
+                });
+
+            container.appendChild(accordion);
+
+        });
+
+    }
+
+    searchInput.addEventListener("input", e => {
+
+        renderCategories(e.target.value);
 
     });
 
-}
+    renderCategories();
 
-searchInput.addEventListener("input", e => {
-
-    renderCategories(e.target.value);
-
-});
-
-renderCategories();
-
+    
