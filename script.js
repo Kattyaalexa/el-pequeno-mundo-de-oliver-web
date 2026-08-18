@@ -1995,18 +1995,6 @@ function createCard(product){
 
                     </span>
 
-                    <span>
-
-                        📦 ${product.reservedCount} de ${product.quantity} reservado(s)
-
-                    </span>
-
-                    <span>
-
-                        ✨ Quedan ${product.available}
-
-                    </span>
-
                 </div>
 
                 ${reservationStatus}
