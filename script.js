@@ -1965,27 +1965,48 @@ function createCard(product){
 
         `}
 
+        ${product.available > 0 ? `
+
         <div class="reserve-button">
 
-        <a
-            href="${product.reserveUrl}"
-            target="_blank"
-        >
+            <a
+                href="${product.reserveUrl}"
+                target="_blank"
+            >
 
-            🎁 Reservar este regalo
+                🎁 Reservar este regalo
 
-        </a>
+            </a>
 
-        <p class="reserve-note">
+            <p class="reserve-note">
 
-            💚 Gracias por ayudarnos a preparar la llegada de Oliver.
+                💚 Gracias por ayudarnos a preparar la llegada de Oliver.
 
-            Después de enviar el formulario, este regalo aparecerá como reservado., puede tardar unos minutos en verse reflejado.
+                Después de enviar el formulario, este regalo aparecerá como reservado.
 
-        </p>
+            </p>
 
-    </div>
+        </div>
 
+    ` : `
+
+        <div class="gift-complete">
+
+            <div class="gift-complete-title">
+
+                ✅ Este regalo ya está completo
+
+            </div>
+
+            <div class="gift-complete-text">
+
+                Gracias por tanto cariño. 💚
+
+            </div>
+
+        </div>
+
+    `}
     `;
 
     return `

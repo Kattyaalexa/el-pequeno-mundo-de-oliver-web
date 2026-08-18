@@ -822,9 +822,11 @@ footer p{
 
 .gift-reserved-name{
 
-    color:var(--forest);
+    margin-top:14px;
 
-    line-height:1.6;
+    font-size:14px;
+
+    color:#6E7A73;
 
 }
 
@@ -955,9 +957,9 @@ footer p{
 
     margin-top:10px;
 
-    font-size:13px;
+    font-size:12px;
 
-    line-height:1.5;
+    line-height:1.45;
 
     color:#7A807C;
 
@@ -1018,7 +1020,37 @@ footer p{
     font-weight:600;
 
 }
+.gift-complete{
 
+    margin-top:18px;
+
+    padding:16px;
+
+    border-radius:16px;
+
+    background:#E8F8EC;
+
+    text-align:center;
+
+}
+
+.gift-complete-title{
+
+    color:#2E8B57;
+
+    font-weight:700;
+
+    margin-bottom:6px;
+
+}
+
+.gift-complete-text{
+
+    font-size:13px;
+
+    color:#66756E;
+
+}
 
 /* ===========================================================
    RESPONSIVE - TABLETS Y CELULARES
