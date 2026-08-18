@@ -15,7 +15,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 3,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Baberos%20de%20silicona",
             "links": [
                 {
@@ -35,7 +37,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Baberos%20impermeables",
             "links": [
                 {
@@ -55,7 +59,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Contenedores%20para%20comida",
             "links": []
         },
@@ -66,7 +72,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cucharas%20de%20silicona",
             "links": [
                 {
@@ -86,7 +94,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Lonchera%20t%C3%A9rmica",
             "links": []
         },
@@ -97,7 +107,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mantel%20antideslizante",
             "links": [
                 {
@@ -117,7 +129,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Platos%20con%20ventosa",
             "links": [
                 {
@@ -133,7 +147,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Recipientes%20para%20snacks",
             "links": [
                 {
@@ -153,7 +169,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Set%20de%20cubiertos%20infantiles",
             "links": []
         },
@@ -164,7 +182,9 @@ const giftCategories = {
             "priority": "Nos gustaría",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Silla%20port%C3%A1til%20plegable%20tipo%20booster",
             "links": [
                 {
@@ -188,7 +208,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Vaso%20360%C2%B0%20antiderrames",
             "links": [
                 {
@@ -208,7 +230,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/feeding.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Vasos%20entrenamiento",
             "links": [
                 {
@@ -224,7 +248,11 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": true,
-            "reservedBy": "Nicolas",
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Nicolas"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Biber%C3%B3n",
             "links": [
                 {
@@ -240,7 +268,11 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/feeding.webp",
             "reserved": true,
-            "reservedBy": "Nicolas",
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Nicolas"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Chupos",
             "links": [
                 {
@@ -258,7 +290,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20de%20silicona%20ba%C3%B1o",
             "links": [
                 {
@@ -278,7 +312,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esponjas%20suaves",
             "links": [
                 {
@@ -297,8 +333,12 @@ const giftCategories = {
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
-            "reserved": true,
-            "reservedBy": "Abuelita Materna",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 1,
+            "reservedBy": [
+                "Abuelita Materna"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Jab%C3%B3n%20l%C3%ADquido%20beb%C3%A9",
             "links": [
                 {
@@ -313,8 +353,12 @@ const giftCategories = {
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
-            "reserved": true,
-            "reservedBy": "Abuelita Materna",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 1,
+            "reservedBy": [
+                "Abuelita Materna"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Loci%C3%B3n%20hidratante",
             "links": [
                 {
@@ -329,8 +373,12 @@ const giftCategories = {
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
-            "reserved": true,
-            "reservedBy": "Abuelita Materna",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 1,
+            "reservedBy": [
+                "Abuelita Materna"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Shampoo%20beb%C3%A9",
             "links": [
                 {
@@ -346,7 +394,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Ba%C3%B1era",
             "links": [
                 {
@@ -370,7 +420,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Crema%20pa%C3%B1al",
             "links": []
         },
@@ -381,7 +433,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Term%C3%B3metro%20ba%C3%B1o",
             "links": [
                 {
@@ -397,7 +451,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Toallas",
             "links": []
         }
@@ -410,7 +466,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Biblioteca%20infantil",
             "links": [
                 {
@@ -426,7 +484,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Caja%20organizadora%20juguetes",
             "links": [
                 {
@@ -442,7 +502,9 @@ const giftCategories = {
             "priority": "Imprescindible",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cama%20Cuna%20%2FColchon",
             "links": [
                 {
@@ -458,7 +520,11 @@ const giftCategories = {
             "priority": "Imprescindible",
             "image": "images/icons/bedroom.webp",
             "reserved": true,
-            "reservedBy": "Ginna",
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Ginna"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Colecho%20regulable",
             "links": [
                 {
@@ -474,7 +540,9 @@ const giftCategories = {
             "priority": "Imprescindible",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cuna%20Corral",
             "links": [
                 {
@@ -490,7 +558,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=L%C3%A1mpara%20infantil%20LED",
             "links": [
                 {
@@ -506,7 +576,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=M%C3%A1quina%20de%20ruido%20blanco",
             "links": [
                 {
@@ -522,7 +594,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=M%C3%B3vil%20para%20cuna",
             "links": [
                 {
@@ -538,7 +612,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Organizador%20de%20pa%C3%B1ales",
             "links": [
                 {
@@ -558,7 +634,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Humidificador",
             "links": [
                 {
@@ -578,7 +656,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Monitor%20beb%C3%A9",
             "links": [
                 {
@@ -602,7 +682,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Protector%20colch%C3%B3n",
             "links": []
         },
@@ -613,7 +695,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Term%C3%B3metro%20infrarrojo",
             "links": [
                 {
@@ -631,7 +715,11 @@ const giftCategories = {
             "priority": "Nos gustaría",
             "image": "images/icons/general.webp",
             "reserved": true,
-            "reservedBy": "Valeria",
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Valeria"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=%C3%81lbum%20del%20primer%20a%C3%B1o",
             "links": []
         },
@@ -642,7 +730,9 @@ const giftCategories = {
             "priority": "Nos gustaría",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Kit%20huellas%20beb%C3%A9",
             "links": [
                 {
@@ -658,7 +748,9 @@ const giftCategories = {
             "priority": "Nos gustaría",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Marco%20de%20fotos",
             "links": []
         }
@@ -671,7 +763,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=2%20S%C3%A1banas",
             "links": [
                 {
@@ -691,7 +785,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20RN",
             "links": []
         },
@@ -702,7 +798,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Kit%20de%20primeros%20auxilios%20Bebe",
             "links": []
         },
@@ -713,7 +811,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cobija%20muselina",
             "links": []
         },
@@ -724,7 +824,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Gimnasio",
             "links": []
         },
@@ -735,7 +837,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Gorros",
             "links": []
         },
@@ -746,7 +850,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Medias",
             "links": []
         },
@@ -757,7 +863,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mitones",
             "links": []
         },
@@ -768,7 +876,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pa%C3%B1ales%20RN",
             "links": []
         },
@@ -779,7 +889,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pa%C3%B1ales%20T1",
             "links": []
         },
@@ -790,7 +902,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pa%C3%B1ales%20T2",
             "links": []
         },
@@ -801,7 +915,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pa%C3%B1ales%20T3",
             "links": []
         },
@@ -812,7 +928,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pijamas%20RN",
             "links": []
         },
@@ -823,7 +941,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Sonajeros",
             "links": []
         }
@@ -836,7 +956,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Aspirador%20nasal",
             "links": [
                 {
@@ -856,7 +978,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Caneca%2F%20Bolsas%20para%20pa%C3%B1ales",
             "links": [
                 {
@@ -872,7 +996,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Kit%20de%20Aseo%20y%20Salud%20",
             "links": [
                 {
@@ -892,7 +1018,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20teteros",
             "links": [
                 {
@@ -908,7 +1036,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Corta%C3%BA%C3%B1as",
             "links": [
                 {
@@ -932,7 +1062,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Toallitas%20h%C3%BAmedas%20x12",
             "links": []
         },
@@ -943,7 +1075,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Contenedor%20para%20pa%C3%B1ales",
             "links": []
         },
@@ -954,7 +1088,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20para%20encias",
             "links": [
                 {
@@ -980,7 +1116,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/lactation.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esterilizador",
             "links": [
                 {
@@ -1004,7 +1142,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/lactation.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Extractor%20leche",
             "links": [
                 {
@@ -1024,7 +1164,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/lactation.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Almohada%20de%20lactancia",
             "links": []
         },
@@ -1034,8 +1176,12 @@ const giftCategories = {
             "stage": "Mamá",
             "priority": "Útil",
             "image": "images/icons/lactation.webp",
-            "reserved": true,
-            "reservedBy": "Mapi",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 99,
+            "reservedBy": [
+                "Mapi"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bolsas%20para%20almacenar%20leche",
             "links": []
         }
@@ -1048,7 +1194,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Apilables",
             "links": []
         },
@@ -1059,7 +1207,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bloques%20blandos",
             "links": []
         },
@@ -1070,7 +1220,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cocinita%20de%20madera",
             "links": []
         },
@@ -1081,7 +1233,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Correpasillos",
             "links": []
         },
@@ -1092,7 +1246,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cubos%20de%20construcci%C3%B3n",
             "links": []
         },
@@ -1103,7 +1259,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 3,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Libros%20sensoriales",
             "links": []
         },
@@ -1114,7 +1272,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mesa%20de%20actividades",
             "links": []
         },
@@ -1125,7 +1285,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mordedores",
             "links": []
         },
@@ -1136,7 +1298,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pelotas%20sensoriales",
             "links": []
         },
@@ -1147,7 +1311,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pizarra%20magn%C3%A9tica",
             "links": []
         },
@@ -1158,7 +1324,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Rompecabezas%20grandes",
             "links": []
         },
@@ -1169,7 +1337,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Torre%20de%20aprendizaje",
             "links": []
         },
@@ -1180,7 +1350,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Triciclo%20evolutivo",
             "links": []
         }
@@ -1193,7 +1365,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Canastas%20organizadoras",
             "links": []
         },
@@ -1204,7 +1378,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Etiquetas%20para%20ropa",
             "links": []
         }
@@ -1217,7 +1393,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Botella%20peri",
             "links": []
         },
@@ -1228,7 +1406,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Coj%C3%ADn%20postparto",
             "links": []
         },
@@ -1239,7 +1419,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Compresas%20fr%C3%ADas%2Fcalientes",
             "links": []
         }
@@ -1252,7 +1434,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20manga%20corta",
             "links": []
         },
@@ -1263,7 +1447,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20manga%20larga",
             "links": []
         },
@@ -1273,8 +1459,12 @@ const giftCategories = {
             "stage": "6-12 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
-            "reserved": true,
-            "reservedBy": "Catalina la tía",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 2,
+            "reservedBy": [
+                "Catalina la tía"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Chaquetas",
             "links": []
         },
@@ -1285,7 +1475,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 6,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pijamas",
             "links": []
         },
@@ -1296,7 +1488,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Zapatos%20primeros%20pasos",
             "links": []
         },
@@ -1307,7 +1501,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 2,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Sleeping%2Fsaco%20de%20dormir%20liviano",
             "links": [
                 {
@@ -1323,7 +1519,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%200%E2%80%933%20meses",
             "links": []
         },
@@ -1334,7 +1532,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%203%E2%80%936%20meses",
             "links": []
         }
@@ -1347,7 +1547,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 10,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cerraduras%20magn%C3%A9ticas",
             "links": []
         },
@@ -1358,7 +1560,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Protector%20de%20estufa",
             "links": []
         },
@@ -1369,7 +1573,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 20,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Protector%20esquinas",
             "links": []
         },
@@ -1380,7 +1586,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 20,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Protectores%20de%20enchufe",
             "links": []
         },
@@ -1391,7 +1599,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Barrera%20retr%C3%A1ctil%20de%20malla",
             "links": [
                 {
@@ -1411,7 +1621,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/safety.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Barrera%20modular%20para%20beb%C3%A9",
             "links": [
                 {
@@ -1429,7 +1641,9 @@ const giftCategories = {
             "priority": "Necesario",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Canguro%20ergon%C3%B3mico",
             "links": [
                 {
@@ -1445,7 +1659,9 @@ const giftCategories = {
             "priority": "Nos gustaría",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Silla%20de%20carro%20Carestino%20ISOFIX%20grupo%200%2F1%2F2%2F3",
             "links": [
                 {
@@ -1465,7 +1681,9 @@ const giftCategories = {
             "priority": "Imprescindible",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Travel%20System%20Carestino%203%20en%201",
             "links": [
                 {
@@ -1487,7 +1705,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bolsa%20t%C3%A9rmica%20para%20teteros",
             "links": [
                 {
@@ -1507,7 +1727,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cambiador%20port%C3%A1til",
             "links": [
                 {
@@ -1523,7 +1745,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Espejo%20retrovisor%20beb%C3%A9",
             "links": [
                 {
@@ -1543,7 +1767,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pa%C3%B1alera",
             "links": [
                 {
@@ -1567,7 +1793,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Organizador%20coche",
             "links": [
                 {
@@ -1583,7 +1811,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Portabeb%C3%A9s%20Agua",
             "links": [
                 {
@@ -1599,7 +1829,9 @@ const giftCategories = {
             "priority": "Útil",
             "image": "images/icons/transport.webp",
             "reserved": false,
-            "reservedBy": "",
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Enfriador%20de%20Leche",
             "links": [
                 {
