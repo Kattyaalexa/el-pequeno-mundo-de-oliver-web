@@ -1847,6 +1847,49 @@ const container = document.getElementById("giftCategories");
 const searchInput = document.getElementById("searchGift");
 
 function createCard(product){
+    const reservationStatus = `
+
+    <div class="gift-reservation-status">
+
+        <p>
+
+            📦 <strong>${product.reservedCount}</strong>
+            de
+            <strong>${product.quantity}</strong>
+            reservado(s)
+
+        </p>
+
+        <p>
+
+            ✨ Quedan
+            <strong>${product.available}</strong>
+
+        </p>
+
+        ${product.reservedCount > 0 ? `
+
+            <div class="gift-reserved-name">
+
+                <strong>💚 Ya reservado por</strong>
+
+                <ul class="reserved-list">
+
+                    ${product.reservedBy.map(person => `
+
+                        <li>${person}</li>
+
+                    `).join("")}
+
+                </ul>
+
+            </div>
+
+        ` : ""}
+
+    </div>
+
+`;
 
     const purchaseSection = product.reserved
 
@@ -1862,9 +1905,17 @@ function createCard(product){
 
             <div class="gift-reserved-name">
 
-                💚 Elegido con mucho cariño por
+                💚 Ya reservado por
 
-                <strong>${product.reservedBy}</strong>
+                <ul class="reserved-list">
+
+                    ${product.reservedBy.map(person => `
+
+                        <li>${person}</li>
+
+                    `).join("")}
+
+                </ul>
 
             </div>
 
@@ -1946,12 +1997,20 @@ function createCard(product){
 
                     <span>
 
-                        📦 ${product.quantity} unidad(es)
+                        📦 ${product.reservedCount} de ${product.quantity} reservado(s)
+
+                    </span>
+
+                    <span>
+
+                        ✨ Quedan ${product.available}
 
                     </span>
 
                 </div>
 
+                ${reservationStatus}
+                
                 ${purchaseSection}
 
             </div>

@@ -973,6 +973,26 @@ footer p{
 
 }
 
+.reserved-list{
+
+    margin-top:10px;
+
+    list-style:none;
+
+    padding:0;
+
+}
+
+.reserved-list li{
+
+    padding:6px 0;
+
+    font-weight:600;
+
+    color:var(--forest);
+
+}
+
 /* ===========================================================
    RESPONSIVE - TABLETS Y CELULARES
 =========================================================== */
