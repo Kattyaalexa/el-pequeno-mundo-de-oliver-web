@@ -1034,8 +1034,8 @@ const giftCategories = {
             "stage": "Mamá",
             "priority": "Útil",
             "image": "images/icons/lactation.webp",
-            "reserved": false,
-            "reservedBy": "",
+            "reserved": true,
+            "reservedBy": "Mapi",
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bolsas%20para%20almacenar%20leche",
             "links": []
         }
