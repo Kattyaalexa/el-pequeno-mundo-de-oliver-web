@@ -2008,24 +2008,6 @@ function createCard(product){
 
     `;
 
-        <div class="gift-complete">
-
-            <div class="gift-complete-title">
-
-                ✅ Este regalo ya está completo
-
-            </div>
-
-            <div class="gift-complete-text">
-
-                Gracias por tanto cariño. 💚
-
-            </div>
-
-        </div>
-
-    `}
-    `;
 
     return `
 
