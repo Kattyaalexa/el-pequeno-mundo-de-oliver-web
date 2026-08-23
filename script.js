@@ -181,10 +181,12 @@
             "stage": "0-3 meses",
             "priority": "Nos gustaría",
             "image": "images/icons/feeding.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Anónimo"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Silla%20port%C3%A1til%20plegable%20tipo%20booster",
             "links": [
                 {
@@ -393,10 +395,12 @@
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Sorpresa"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Ba%C3%B1era",
             "links": [
                 {
@@ -810,10 +814,12 @@
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Jefferson y Natalia"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cobija%20muselina",
             "links": []
         },
@@ -1194,9 +1200,11 @@
             "priority": "Útil",
             "image": "images/icons/toys.webp",
             "reserved": false,
-            "reservedCount": 0,
-            "available": 2,
-            "reservedBy": [],
+            "reservedCount": 1,
+            "available": 1,
+            "reservedBy": [
+                "Jefferson Y Natalia"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Apilables",
             "links": []
         },
@@ -1460,10 +1468,11 @@
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedCount": 1,
-            "available": 2,
+            "reservedCount": 2,
+            "available": 1,
             "reservedBy": [
-                "Catalina la tía"
+                "Catalina la tía",
+                "Olga Lucia Aguilera Monroy"
             ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Chaquetas",
             "links": []
