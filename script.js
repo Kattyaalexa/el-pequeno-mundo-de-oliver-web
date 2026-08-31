@@ -464,10 +464,12 @@
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/bath.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Anónimo"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Toallas",
             "links": []
         }
@@ -943,10 +945,12 @@
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Anonimo"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Pijamas%20RN",
             "links": []
         },
