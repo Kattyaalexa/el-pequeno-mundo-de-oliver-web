@@ -968,244 +968,6 @@
             "links": []
         }
     ],
-    "Limpieza": [
-        {
-            "name": "Aspirador nasal",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Aspirador%20nasal",
-            "links": [
-                {
-                    "store": "Falabella",
-                    "url": "https://www.falabella.com.co/falabella-co/product/119735177/Aspirador-nasal-bebe-nino-limpiador-nariz/119735178"
-                },
-                {
-                    "store": "Falabella",
-                    "url": "https://www.falabella.com.co/falabella-co/product/151780914/aspirador-nasal-manguera-dedal-de-silicona-para-bebe-amarillo/151780916"
-                }
-            ]
-        },
-        {
-            "name": "Caneca/ Bolsas para pañales",
-            "quantity": 4,
-            "stage": "Consumibles",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 4,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Caneca%2F%20Bolsas%20para%20pa%C3%B1ales",
-            "links": [
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/para-bote-de-basura-para-panales-antiodor/p/MCO2024677325#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=6&type=product&tracking_id=d165e877-1953-45b0-b372-6b507f9a51d2&wid=MCO1859982989&sid=search"
-                }
-            ]
-        },
-        {
-            "name": "Kit de Aseo y Salud ",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Kit%20de%20Aseo%20y%20Salud%20",
-            "links": [
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/kit-de-aseo-y-salud-safety-1st-para-bebe-de-24-piezas-lila/p/MCO22893729?utm_source=chatgpt.com"
-                },
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://articulo.mercadolibre.com.co/MCO-1766645341-kit-aseo-bebe-20-piezas-con-lima-recien-nacido-con-estuche-_JM?searchVariation=194342131675#polycard_client=search-desktop&searchVariation=194342131675&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=3&type=item&tracking_id=84f3628d-d7a5-4482-8021-7172a18f0486&sid=search"
-                }
-            ]
-        },
-        {
-            "name": "Cepillo teteros",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20teteros",
-            "links": [
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/kit-limpiador-de-teteros-pitillos-termos-chupos-botellas-color-verde-enfantasy/p/MCO52279319?pdp_filters=item_id%3AMCO2945494822&from=gshop&matt_tool=49924801&matt_word=&matt_source=google&matt_campaign_id=22126928771&matt_ad_group_id=191734489095&matt_match_type=&matt_network=g&matt_device=c&matt_creative=791890236390&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735127770&matt_product_id=MCO52279319-product&matt_product_partition_id=2493922234999&matt_target_id=pla-2493922234999&cq_src=google_ads&cq_cmp=22126928771&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22126928771&gbraid=0AAAAAD1DcowjD0M8IM1sJ2ZhekubdkbIM&gclid=CjwKCAjw1vXTBhB-EiwAEKr_kzqiX_llZN1k1j2OWqbjtUmRlTmONUwJxsezBerdl7A7untiycHbXhoCfz4QAvD_BwE"
-                }
-            ]
-        },
-        {
-            "name": "Cortaúñas",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Corta%C3%BA%C3%B1as",
-            "links": [
-                {
-                    "store": "Amazon",
-                    "url": "https://www.amazon.com/-/es/Frida-Baby-el%C3%A9ctrico-corta%C3%BA%C3%B1as-recortadora/dp/B0BV4SXTFZ?ref_=br_ii_dsk_spp_2_B0BV4SXTFZ_dp&th=1"
-                },
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/cortaunas-para-bebe/up/MCOU2428384081?utm_source=chatgpt.com"
-                },
-                {
-                    "store": "Carestino",
-                    "url": "https://www.carestino.com.co/producto/set-manicura-para-bebes-blanco/"
-                }
-            ]
-        },
-        {
-            "name": "Toallitas húmedas x12",
-            "quantity": 1,
-            "stage": "Consumibles",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Toallitas%20h%C3%BAmedas%20x12",
-            "links": []
-        },
-        {
-            "name": "Contenedor para pañales",
-            "quantity": 1,
-            "stage": "General",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Contenedor%20para%20pa%C3%B1ales",
-            "links": []
-        },
-        {
-            "name": "Cepillo para encias",
-            "quantity": 1,
-            "stage": "0-3 meses",
-            "priority": "Útil",
-            "image": "images/icons/general.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20para%20encias",
-            "links": [
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/3-cepillos-dientes-encias-bebe-silicona-suave-seguro-ninos-azul-claro/p/MCO73892785#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=8&type=product&tracking_id=2fb296ac-46bc-4bf8-8ef5-4d5673a49e8b&wid=MCO4073961884&sid=search"
-                },
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/cepillo-rasca-encias-paso-1-pigeon-color-amarillo-amarillo/p/MCO32368137"
-                },
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/hisopos-limpiadores-bucales-desechables-bebe-x30-30pcs/p/MCO2064450326?pdp_filters=item_id%3AMCO1984962935&from=gshop&matt_tool=93306144&matt_word=&matt_source=google&matt_campaign_id=24095075665&matt_ad_group_id=204005822852&matt_match_type=&matt_network=g&matt_device=c&matt_creative=819010940623&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735127770&matt_product_id=MCO2064450326-product&matt_product_partition_id=2493336664279&matt_target_id=pla-2493336664279&cq_src=google_ads&cq_cmp=24095075665&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=24095075665&gbraid=0AAAAAD1DcoxPaZsZNuo-VnDKCd0V9rZQs&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k5eT_mZlCrtN47QLVLLBX40n3B4hqy0diTQ6ZolvZmWcWG0y5N0jPxoCwQMQAvD_BwE"
-                }
-            ]
-        }
-    ],
-    "Lactancia": [
-        {
-            "name": "Esterilizador",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/lactation.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esterilizador",
-            "links": [
-                {
-                    "store": "Amazon",
-                    "url": "https://www.amazon.com/dp/B0DB594ZL9/ref=sspa_dk_detail_4?pd_rd_i=B0DB594ZL9&pd_rd_w=j58XW&content-id=amzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9&pf_rd_p=4a7f44df-467c-45a1-af5f-91661a6df2f9&pf_rd_r=M6VDD3MDDQE1J53QG63R&pd_rd_wg=wCid2&pd_rd_r=aed9d25a-6600-4ecd-a33a-31a94913322c&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1"
-                },
-                {
-                    "store": "Amazon",
-                    "url": "https://www.amazon.com/dp/B0CWLHKQNT/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B0CWLHKQNT&pd_rd_w=IhxGO&content-id=amzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff&pf_rd_p=4adc092d-0184-45e6-8bd0-773f48fbf8ff&pf_rd_r=KX0MQN3FJDW2TS1TRDV9&pd_rd_wg=GK9Gm&pd_rd_r=00847631-e629-473a-a179-b49a0e066662&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM"
-                },
-                {
-                    "store": "Amazon",
-                    "url": "https://www.amazon.com/-/es/Papablic-SafeguardPlus-biberones-purificaci%C3%B3n-esterilizador/dp/B0GX1Q8V3L?colid=KKRSFS36DK8C&coliid=I9R0YLAL4B9Q9&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-                }
-            ]
-        },
-        {
-            "name": "Extractor leche",
-            "quantity": 1,
-            "stage": "RN",
-            "priority": "Útil",
-            "image": "images/icons/lactation.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Extractor%20leche",
-            "links": [
-                {
-                    "store": "Cocco y Lolo",
-                    "url": "https://www.coccoylolo.com/products/extractor-air1-ultradelgado-momcozy?neose=google&neomm=cpc&neocn=pmax&gad_source=1&gad_campaignid=22708353813&gbraid=0AAAAADiphLNS_QIyzdzfeoPqZLQknu3oZ&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k4EDHeFbJz5_WX6DC7futSJj21yL05lrqjVH7ScU3nKQy2QCJomwQBoCDmwQAvD_BwE"
-                },
-                {
-                    "store": "Mercado Libre",
-                    "url": "https://www.mercadolibre.com.co/medela-extractor-electrico-freestyle-hands-free-sacaleches/p/MCO28488121#polycard_client=search-desktop&float_highlight=last_units&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=21&type=product&tracking_id=f53076cb-60d7-42a0-a5e1-109a71bdae75&wid=MCO2974528662&sid=search"
-                }
-            ]
-        },
-        {
-            "name": "Almohada de lactancia",
-            "quantity": 1,
-            "stage": "Mamá",
-            "priority": "Útil",
-            "image": "images/icons/lactation.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Almohada%20de%20lactancia",
-            "links": []
-        },
-        {
-            "name": "Bolsas para almacenar leche",
-            "quantity": 100,
-            "stage": "Mamá",
-            "priority": "Útil",
-            "image": "images/icons/lactation.webp",
-            "reserved": false,
-            "reservedCount": 1,
-            "available": 99,
-            "reservedBy": [
-                "Mapi"
-            ],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bolsas%20para%20almacenar%20leche",
-            "links": []
-        }
-    ],
     "Juguetes": [
         {
             "name": "Apilables",
@@ -1379,6 +1141,244 @@
             "links": []
         }
     ],
+    "Lactancia": [
+        {
+            "name": "Esterilizador",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/lactation.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esterilizador",
+            "links": [
+                {
+                    "store": "Amazon",
+                    "url": "https://www.amazon.com/dp/B0DB594ZL9/ref=sspa_dk_detail_4?pd_rd_i=B0DB594ZL9&pd_rd_w=j58XW&content-id=amzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9&pf_rd_p=4a7f44df-467c-45a1-af5f-91661a6df2f9&pf_rd_r=M6VDD3MDDQE1J53QG63R&pd_rd_wg=wCid2&pd_rd_r=aed9d25a-6600-4ecd-a33a-31a94913322c&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1"
+                },
+                {
+                    "store": "Amazon",
+                    "url": "https://www.amazon.com/dp/B0CWLHKQNT/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B0CWLHKQNT&pd_rd_w=IhxGO&content-id=amzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff&pf_rd_p=4adc092d-0184-45e6-8bd0-773f48fbf8ff&pf_rd_r=KX0MQN3FJDW2TS1TRDV9&pd_rd_wg=GK9Gm&pd_rd_r=00847631-e629-473a-a179-b49a0e066662&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM"
+                },
+                {
+                    "store": "Amazon",
+                    "url": "https://www.amazon.com/-/es/Papablic-SafeguardPlus-biberones-purificaci%C3%B3n-esterilizador/dp/B0GX1Q8V3L?colid=KKRSFS36DK8C&coliid=I9R0YLAL4B9Q9&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
+                }
+            ]
+        },
+        {
+            "name": "Extractor leche",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/lactation.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Extractor%20leche",
+            "links": [
+                {
+                    "store": "Cocco y Lolo",
+                    "url": "https://www.coccoylolo.com/products/extractor-air1-ultradelgado-momcozy?neose=google&neomm=cpc&neocn=pmax&gad_source=1&gad_campaignid=22708353813&gbraid=0AAAAADiphLNS_QIyzdzfeoPqZLQknu3oZ&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k4EDHeFbJz5_WX6DC7futSJj21yL05lrqjVH7ScU3nKQy2QCJomwQBoCDmwQAvD_BwE"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/medela-extractor-electrico-freestyle-hands-free-sacaleches/p/MCO28488121#polycard_client=search-desktop&float_highlight=last_units&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=21&type=product&tracking_id=f53076cb-60d7-42a0-a5e1-109a71bdae75&wid=MCO2974528662&sid=search"
+                }
+            ]
+        },
+        {
+            "name": "Almohada de lactancia",
+            "quantity": 1,
+            "stage": "Mamá",
+            "priority": "Útil",
+            "image": "images/icons/lactation.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Almohada%20de%20lactancia",
+            "links": []
+        },
+        {
+            "name": "Bolsas para almacenar leche",
+            "quantity": 100,
+            "stage": "Mamá",
+            "priority": "Útil",
+            "image": "images/icons/lactation.webp",
+            "reserved": false,
+            "reservedCount": 1,
+            "available": 99,
+            "reservedBy": [
+                "Mapi"
+            ],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bolsas%20para%20almacenar%20leche",
+            "links": []
+        }
+    ],
+    "Limpieza": [
+        {
+            "name": "Aspirador nasal",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Aspirador%20nasal",
+            "links": [
+                {
+                    "store": "Falabella",
+                    "url": "https://www.falabella.com.co/falabella-co/product/119735177/Aspirador-nasal-bebe-nino-limpiador-nariz/119735178"
+                },
+                {
+                    "store": "Falabella",
+                    "url": "https://www.falabella.com.co/falabella-co/product/151780914/aspirador-nasal-manguera-dedal-de-silicona-para-bebe-amarillo/151780916"
+                }
+            ]
+        },
+        {
+            "name": "Caneca/ Bolsas para pañales",
+            "quantity": 4,
+            "stage": "Consumibles",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 4,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Caneca%2F%20Bolsas%20para%20pa%C3%B1ales",
+            "links": [
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/para-bote-de-basura-para-panales-antiodor/p/MCO2024677325#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=6&type=product&tracking_id=d165e877-1953-45b0-b372-6b507f9a51d2&wid=MCO1859982989&sid=search"
+                }
+            ]
+        },
+        {
+            "name": "Kit de Aseo y Salud ",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Kit%20de%20Aseo%20y%20Salud%20",
+            "links": [
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/kit-de-aseo-y-salud-safety-1st-para-bebe-de-24-piezas-lila/p/MCO22893729?utm_source=chatgpt.com"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://articulo.mercadolibre.com.co/MCO-1766645341-kit-aseo-bebe-20-piezas-con-lima-recien-nacido-con-estuche-_JM?searchVariation=194342131675#polycard_client=search-desktop&searchVariation=194342131675&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=3&type=item&tracking_id=84f3628d-d7a5-4482-8021-7172a18f0486&sid=search"
+                }
+            ]
+        },
+        {
+            "name": "Cepillo teteros",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20teteros",
+            "links": [
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/kit-limpiador-de-teteros-pitillos-termos-chupos-botellas-color-verde-enfantasy/p/MCO52279319?pdp_filters=item_id%3AMCO2945494822&from=gshop&matt_tool=49924801&matt_word=&matt_source=google&matt_campaign_id=22126928771&matt_ad_group_id=191734489095&matt_match_type=&matt_network=g&matt_device=c&matt_creative=791890236390&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735127770&matt_product_id=MCO52279319-product&matt_product_partition_id=2493922234999&matt_target_id=pla-2493922234999&cq_src=google_ads&cq_cmp=22126928771&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22126928771&gbraid=0AAAAAD1DcowjD0M8IM1sJ2ZhekubdkbIM&gclid=CjwKCAjw1vXTBhB-EiwAEKr_kzqiX_llZN1k1j2OWqbjtUmRlTmONUwJxsezBerdl7A7untiycHbXhoCfz4QAvD_BwE"
+                }
+            ]
+        },
+        {
+            "name": "Cortaúñas",
+            "quantity": 1,
+            "stage": "RN",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Corta%C3%BA%C3%B1as",
+            "links": [
+                {
+                    "store": "Amazon",
+                    "url": "https://www.amazon.com/-/es/Frida-Baby-el%C3%A9ctrico-corta%C3%BA%C3%B1as-recortadora/dp/B0BV4SXTFZ?ref_=br_ii_dsk_spp_2_B0BV4SXTFZ_dp&th=1"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/cortaunas-para-bebe/up/MCOU2428384081?utm_source=chatgpt.com"
+                },
+                {
+                    "store": "Carestino",
+                    "url": "https://www.carestino.com.co/producto/set-manicura-para-bebes-blanco/"
+                }
+            ]
+        },
+        {
+            "name": "Toallitas húmedas x12",
+            "quantity": 1,
+            "stage": "Consumibles",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Toallitas%20h%C3%BAmedas%20x12",
+            "links": []
+        },
+        {
+            "name": "Contenedor para pañales",
+            "quantity": 1,
+            "stage": "General",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Contenedor%20para%20pa%C3%B1ales",
+            "links": []
+        },
+        {
+            "name": "Cepillo para encias",
+            "quantity": 1,
+            "stage": "0-3 meses",
+            "priority": "Útil",
+            "image": "images/icons/general.webp",
+            "reserved": false,
+            "reservedCount": 0,
+            "available": 1,
+            "reservedBy": [],
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Cepillo%20para%20encias",
+            "links": [
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/3-cepillos-dientes-encias-bebe-silicona-suave-seguro-ninos-azul-claro/p/MCO73892785#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=8&type=product&tracking_id=2fb296ac-46bc-4bf8-8ef5-4d5673a49e8b&wid=MCO4073961884&sid=search"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/cepillo-rasca-encias-paso-1-pigeon-color-amarillo-amarillo/p/MCO32368137"
+                },
+                {
+                    "store": "Mercado Libre",
+                    "url": "https://www.mercadolibre.com.co/hisopos-limpiadores-bucales-desechables-bebe-x30-30pcs/p/MCO2064450326?pdp_filters=item_id%3AMCO1984962935&from=gshop&matt_tool=93306144&matt_word=&matt_source=google&matt_campaign_id=24095075665&matt_ad_group_id=204005822852&matt_match_type=&matt_network=g&matt_device=c&matt_creative=819010940623&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735127770&matt_product_id=MCO2064450326-product&matt_product_partition_id=2493336664279&matt_target_id=pla-2493336664279&cq_src=google_ads&cq_cmp=24095075665&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=24095075665&gbraid=0AAAAAD1DcoxPaZsZNuo-VnDKCd0V9rZQs&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k5eT_mZlCrtN47QLVLLBX40n3B4hqy0diTQ6ZolvZmWcWG0y5N0jPxoCwQMQAvD_BwE"
+                }
+            ]
+        }
+    ],
     "Organización": [
         {
             "name": "Canastas organizadoras",
@@ -1450,29 +1450,29 @@
     ],
     "Ropa": [
         {
-            "name": "Bodies manga corta",
-            "quantity": 6,
-            "stage": "0-3 meses",
+            "name": "Conjuntos",
+            "quantity": 8,
+            "stage": "0-12 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
             "reservedCount": 0,
-            "available": 6,
+            "available": 8,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20manga%20corta",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Conjuntos",
             "links": []
         },
         {
-            "name": "Bodies manga larga",
+            "name": "Bodies manga corta/ larga",
             "quantity": 6,
-            "stage": "0-3 meses",
+            "stage": "0-12 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
             "reservedCount": 0,
             "available": 6,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20manga%20larga",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Bodies%20manga%20corta%2F%20larga",
             "links": []
         },
         {
@@ -1494,7 +1494,7 @@
         {
             "name": "Pijamas",
             "quantity": 6,
-            "stage": "0-3 meses",
+            "stage": "0-12 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
@@ -1523,13 +1523,13 @@
         },
         {
             "name": "Sleeping/saco de dormir liviano",
-            "quantity": 2,
+            "quantity": 4,
             "stage": "3-6 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
             "reservedCount": 0,
-            "available": 2,
+            "available": 4,
             "reservedBy": [],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Sleeping%2Fsaco%20de%20dormir%20liviano",
             "links": [
@@ -1540,29 +1540,29 @@
             ]
         },
         {
-            "name": "Esqueletos 0–3 meses",
+            "name": "Esqueletos",
             "quantity": 7,
-            "stage": "RN–3 meses",
+            "stage": "RN–6 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
             "reservedCount": 0,
             "available": 7,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%200%E2%80%933%20meses",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos",
             "links": []
         },
         {
-            "name": "Esqueletos 3–6 meses",
-            "quantity": 7,
+            "name": "Semanario",
+            "quantity": 3,
             "stage": "3–6 meses",
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
             "reservedCount": 0,
-            "available": 7,
+            "available": 3,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Esqueletos%203%E2%80%936%20meses",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Semanario",
             "links": []
         }
     ],
