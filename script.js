@@ -862,29 +862,29 @@
             "links": []
         },
         {
-            "name": "Medias",
-            "quantity": 1,
+            "name": "Set recien Nacido",
+            "quantity": 4,
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
             "reservedCount": 0,
-            "available": 1,
+            "available": 4,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Medias",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Set%20recien%20Nacido",
             "links": []
         },
         {
-            "name": "Mitones",
-            "quantity": 1,
+            "name": "Mitones/ Medias",
+            "quantity": 5,
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
             "reservedCount": 0,
-            "available": 1,
+            "available": 5,
             "reservedBy": [],
-            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mitones",
+            "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Mitones%2F%20Medias",
             "links": []
         },
         {
@@ -1456,13 +1456,14 @@
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedCount": 4,
-            "available": 4,
+            "reservedCount": 5,
+            "available": 3,
             "reservedBy": [
                 "Nonita",
                 "Maritza y William",
                 "Valeria",
-                "Baudilio"
+                "Baudilio",
+                "Sonia, Diana y Andrea"
             ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Conjuntos",
             "links": []
