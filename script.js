@@ -774,14 +774,16 @@
     "General": [
         {
             "name": "2 Sábanas",
-            "quantity": 1,
+            "quantity": 2,
             "stage": "RN",
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedCount": 0,
+            "reservedCount": 1,
             "available": 1,
-            "reservedBy": [],
+            "reservedBy": [
+                "Ginna"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=2%20S%C3%A1banas",
             "links": [
                 {
@@ -868,9 +870,12 @@
             "priority": "Necesario",
             "image": "images/icons/general.webp",
             "reserved": false,
-            "reservedCount": 0,
-            "available": 4,
-            "reservedBy": [],
+            "reservedCount": 2,
+            "available": 2,
+            "reservedBy": [
+                "Ginna",
+                "Abuelito Materno"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Set%20recien%20Nacido",
             "links": []
         },
