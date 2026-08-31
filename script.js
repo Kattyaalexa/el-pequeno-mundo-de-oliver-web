@@ -1513,9 +1513,11 @@
             "priority": "Necesario",
             "image": "images/icons/clothes.webp",
             "reserved": false,
-            "reservedCount": 0,
-            "available": 2,
-            "reservedBy": [],
+            "reservedCount": 1,
+            "available": 1,
+            "reservedBy": [
+                "Nonito"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=Zapatos%20primeros%20pasos",
             "links": []
         },
