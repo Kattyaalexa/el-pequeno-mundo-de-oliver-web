@@ -609,10 +609,12 @@
             "stage": "0-3 meses",
             "priority": "Útil",
             "image": "images/icons/bedroom.webp",
-            "reserved": false,
-            "reservedCount": 0,
-            "available": 1,
-            "reservedBy": [],
+            "reserved": true,
+            "reservedCount": 1,
+            "available": 0,
+            "reservedBy": [
+                "Miguel y Viviana"
+            ],
             "reserveUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__o35cs1UOVZUVjNJRTZXTFU5OEtIWllENEkyWU1FRy4u&r3d1ed961ee364c12b1d34be2b8060883=M%C3%B3vil%20para%20cuna",
             "links": [
                 {
